@@ -1,0 +1,64 @@
+body {
+    background: url(img/backgroundimage-min.jpg);
+    background-position: center;
+    background-attachment: local;
+    height: 100vh;
+    background-size: 1400px 700px;
+}
+
+
+.const1 {
+    padding-left: 120px;
+    padding-top: 80px;
+    font-family: 'Dancing Script', cursive, 'Arial', sans-serif;;
+    font-weight: 600;
+    text-rendering: optimizeLegibility;
+}
+
+.const2 {
+    margin-left: 200px;
+    margin-top: 80px;
+    font-family: 'Dancing Script', cursive, 'Arial', sans-serif;;
+    font-weight: 600;
+    text-rendering: optimizeLegibility;
+}
+
+.para {
+    color: #e67e22;
+    font-size: 270%;
+}
+
+.btn:link,
+.btn:visited,
+input[type=submit] {
+    display: inline-block;
+    padding: 10px 30px;
+    font-weight: 400;
+    font-size: 150%;
+    text-decoration: none;
+    border-radius: 200px;
+    -webkit-transition: background-color 0.2s, border 0.2s, color 0.2s;
+    transition: background-color 0.2s, border 0.2s, color 0.2s;
+}
+
+
+
+.btn:link,
+.btn:visited {
+    border: 1px solid #e67e22;
+    color: #e67e22;
+}
+
+.btn:hover,
+.btn:active,
+input[type=submit]:hover,
+input[type=submit]:active {
+    background-color: #cf6d17;
+}
+
+
+.btn:hover,
+.btn:active {
+    border: 1px solid #cf6d17;
+    color: #fff;
+}
