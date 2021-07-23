@@ -7,17 +7,9 @@ body {
 }
 
 
-.const1 {
-    padding-left: 120px;
+.const {
+    padding-left: 200px;
     padding-top: 80px;
-    font-family: 'Dancing Script', cursive, 'Arial', sans-serif;;
-    font-weight: 600;
-    text-rendering: optimizeLegibility;
-}
-
-.const2 {
-    margin-left: 200px;
-    margin-top: 80px;
     font-family: 'Dancing Script', cursive, 'Arial', sans-serif;;
     font-weight: 600;
     text-rendering: optimizeLegibility;
